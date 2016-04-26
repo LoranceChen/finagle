@@ -1,4 +1,4 @@
-# Finagle
+# Hello~ Finagle
 
 [![Build status](https://travis-ci.org/twitter/finagle.svg?branch=develop)](https://travis-ci.org/twitter/finagle)
 [![Coverage status](https://img.shields.io/coveralls/twitter/finagle/develop.svg)](https://coveralls.io/r/twitter/finagle?branch=develop)
