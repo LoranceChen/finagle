@@ -41,7 +41,7 @@ object HttpStreamingServer {
       // Translate buffered writes into HTTP chunks.
       .withStreaming(enabled = true)
       // Listen on port 8080.
-      .serve("0.0.0.0:8080", service)
+      .serve("0.0.0.0:7070", service)
     )
   }
 }
